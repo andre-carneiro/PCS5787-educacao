@@ -1,2 +1,2 @@
-# PCS5787
-Repositório auxiliar para a elaboração do projeto da disciplina PCS5787 - Ciência dos Dados
+# PCS5787-educacao
+Este repositório tem por objetivo sistematizar os datasets da Feira da FEBRACE, além de trazer análises auxiliares tanto em Python quanto no Tableau
